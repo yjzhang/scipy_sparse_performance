@@ -1,0 +1,105 @@
+1000 x 1000
+time for 100 coo-to-csc conversions: 0.0153770446777
+time for 100 csc-to-csr conversions: 0.0177969932556
+time for 100 csc-to-coo conversions: 0.0193350315094
+time for 100 csc column slices: 0.0169479846954
+time for 100 csc row slices: 0.0222101211548
+time for 100 csr column slices: 0.00932097434998
+time for 100 csr row slices: 0.00587892532349
+time for 100 csr col means: 0.0296580791473
+time for 100 csr row means: 0.0218510627747
+time for 100 csc col means: 0.0203931331635
+time for 100 csc row means: 0.0214128494263
+time for 100 coo col means: 0.039929151535
+time for 20 csc*csc products: 0.0226159095764
+time for 20 csr*csr products: 0.0222129821777
+time for 100 csr float-to-int conversions: 0.00473308563232
+time for 100 csc float-to-int conversions: 0.00626420974731
+
+2000 x 2000
+time for 100 coo-to-csc conversions: 0.0296709537506
+time for 100 csc-to-csr conversions: 0.0704379081726
+time for 100 csc-to-coo conversions: 0.0469830036163
+time for 100 csc column slices: 0.0134069919586
+time for 100 csc row slices: 0.0282971858978
+time for 100 csr column slices: 0.0187001228333
+time for 100 csr row slices: 0.0057008266449
+time for 100 csr col means: 0.0425498485565
+time for 100 csr row means: 0.0353720188141
+time for 100 csc col means: 0.0341989994049
+time for 100 csc row means: 0.0336389541626
+time for 100 coo col means: 0.0775671005249
+time for 20 csc*csc products: 0.159173965454
+time for 20 csr*csr products: 0.151781082153
+time for 100 csr float-to-int conversions: 0.00870704650879
+time for 100 csc float-to-int conversions: 0.0092830657959
+
+5000 x 5000
+time for 100 coo-to-csc conversions: 0.203747034073
+time for 100 csc-to-csr conversions: 0.47212100029
+time for 100 csc-to-coo conversions: 0.267267942429
+time for 100 csc column slices: 0.0138330459595
+time for 100 csc row slices: 0.0692958831787
+time for 100 csr column slices: 0.0613210201263
+time for 100 csr row slices: 0.00569605827332
+time for 100 csr col means: 0.214323997498
+time for 100 csr row means: 0.205448865891
+time for 100 csc col means: 0.198192119598
+time for 100 csc row means: 0.20801615715
+time for 100 coo col means: 0.49160194397
+time for 20 csc*csc products: 3.33897995949
+time for 20 csr*csr products: 3.37829709053
+time for 100 csr float-to-int conversions: 0.0796339511871
+time for 100 csc float-to-int conversions: 0.0902888774872
+time for 100 csc_0[:,0].toarray(): 0.0213310718536
+
+10000 x 10000
+time for 100 coo-to-csc conversions: 1.15448284149
+time for 100 csc-to-csr conversions: 2.09324479103
+time for 100 csc-to-coo conversions: 1.1025800705
+time for 100 csc column slices: 0.0162889957428
+time for 100 csc row slices: 0.240797996521
+time for 100 csr column slices: 0.223926067352
+time for 100 csr row slices: 0.0094358921051
+time for 100 csr col means: 0.881187200546
+time for 100 csr row means: 0.801015853882
+time for 100 csc col means: 0.776162147522
+time for 100 csc row means: 0.878221988678
+time for 100 coo col means: 2.09930610657
+time for 100 csr float-to-int conversions: 0.383970022202
+time for 100 csc float-to-int conversions: 0.375657081604
+time for 100 csc_0[:,0].toarray(): 0.0249671936035
+
+20000 x 20000
+time for 100 coo-to-csc conversions: 6.53396296501
+time for 100 csc-to-csr conversions: 8.65724897385
+time for 100 csc-to-coo conversions: 4.41658997536
+time for 100 csc column slices: 0.0176060199738
+time for 100 csc row slices: 0.723604917526
+time for 100 csr column slices: 0.716851949692
+time for 100 csr row slices: 0.0060510635376
+time for 100 csr col means: 3.11857295036
+time for 100 csr row means: 2.52871608734
+time for 100 csc col means: 2.54907608032
+time for 100 csc row means: 3.09472489357
+time for 100 coo col means: 7.33027291298
+time for 100 csr type conversions: 1.24140906334
+time for 100 csc type conversions: 1.24318194389
+time for 100 csc_0[:,0].toarray(): 0.0248441696167
+
+40000 x 40000
+time for 100 coo-to-csc conversions: 32.6007091999
+time for 100 csc-to-csr conversions: 40.9182379246
+time for 100 csc-to-coo conversions: 19.7120959759
+time for 100 csc column slices: 0.0140330791473
+time for 100 csc row slices: 2.75755190849
+time for 100 csr column slices: 2.75112390518
+time for 100 csr row slices: 0.00615501403809
+time for 100 csr col means: 17.1430571079
+time for 100 csr row means: 13.814852953
+time for 100 csc col means: 14.1265611649
+time for 100 csc row means: 17.2916388512
+time for 100 coo col means: 35.4271638393
+time for 100 csr float-to-int conversions: 5.66693305969
+time for 100 csc float-to-int conversions: 5.60822701454
+
